@@ -86,3 +86,15 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## 📫 Connect
 
 - LinkedIn: (https://www.linkedin.com/in/mayank-peswani/))
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
