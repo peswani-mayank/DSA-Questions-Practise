@@ -102,4 +102,8 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
