@@ -16,7 +16,8 @@ class Solution {
     // Print elements of a stack and pop them.
     void printAndPop(stack<int> s) {
         // code here
-        while(!s.empty()){
+        while(!s.empty()){ //loop  isliye chalya checkjb tk stack empty 
+        //nhi hojaye tb tk ye chalta rahe
             cout<<s.top()<<" ";
             s.pop();
         }
