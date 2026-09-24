@@ -6,7 +6,8 @@ void print(deque<int> &A) {
     // Your code here
     if(A.empty()){
         cout<<-1<<endl;
-        return;
+        return; //ye isliye likha h agar queue empty h to wo fr for loop m jyega 
+        //agar return nhi likhege to agar queue empty h to wo -1 print kre or ruk jaye apn ko ye chhaiye
     }
     for(int x: A){
         cout<<x<<" ";
