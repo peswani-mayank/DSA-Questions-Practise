@@ -112,6 +112,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,12 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
