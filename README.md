@@ -100,6 +100,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0058-length-of-last-word/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
