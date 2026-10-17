@@ -2,7 +2,7 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int ans = 0;
+        int ans1 = 0;
 
         for (int i = 0; i < s.length(); i++) {
             int curr, next = 0;
@@ -30,12 +30,12 @@ public:
             }
 
             if (curr < next) {
-                ans -= curr;
+                ans1 -= curr;
             } else {
-                ans += curr;
+                ans1 += curr;
             }
         }
 
-        return ans;
+        return ans1;
     }
 };
