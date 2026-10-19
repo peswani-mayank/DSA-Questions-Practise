@@ -43,9 +43,47 @@ arr[] = [1, 1]
 - **Expected Time Complexity:** O(n)
 - **Expected Auxiliary Space Complexity:** O(1)
 
-### Accepted Solutions (1)
+### Accepted Solutions (2)
 
 #### Solution 1 (C++)
+
+- **Submitted:** 2026-10-19 23:11:24
+- **Status:** Correct
+- **Marks:** 0
+
+```cpp
+class Solution {
+  public:
+    pair<int, int> countOddEven(vector<int> &arr) {
+        // code here
+        //idr apn n pphele n liya jo ki array ki size h or fr 2 variable liye jo 
+        //ki a or b inko apn n count k liye liye h taaki  agar array m even element mile
+        //to a increase ho or agar odd element mile to b increase ho fr for loop chalaya h
+        //jo ki pure array m check krega if condition ki agar even element mile to a increase
+        //hoga or agar odd element mile to b increase hoga or fr apn n b or a ko return krdiya h
+        //kyuki question m diya h ki phele odd element ka count return krna h fr even element ka 
+        //count return krna h 
+        int n=arr.size();
+        int a=0; //even element count
+        int b=0;//odd element count
+        for(int i=0;i<n;i++){
+            
+            
+            if(arr[i]%2==0){ //checking even condition
+                a++;
+            }
+            
+            else{
+                b++;
+            }
+        }
+        return {b,a};
+        
+    }
+};
+```
+
+#### Solution 2 (C++)
 
 - **Submitted:** 2026-10-19 23:04:28
 - **Status:** Correct
@@ -72,4 +110,4 @@ class Solution {
 };
 ```
 
-*Generated on: 10/19/2026, 11:09:30 PM*
+*Generated on: 10/19/2026, 11:10:54 PM*
