@@ -95,6 +95,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0001-two-sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
