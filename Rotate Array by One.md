@@ -33,6 +33,9 @@ class Solution {
   public:
     void rotate(vector<int> &arr) {
         // code here
+        //idr apn ne n liya h jo ki array ki size h
+        //fr jo last element h usko temp variable m store kiya h
+        //fr for loop apn n last s chalaya h
         int n=arr.size();
         int temp=arr[n-1];
         
@@ -43,6 +46,31 @@ class Solution {
         
     }
 };
+
+//Maan lo array hai:
+
+// [1, 2, 3, 4, 5]
+
+// Aur temp = 5 mein last element save kar liya hai.
+
+// Ab loop right se left chalega.
+// Step	Operation	Array
+// 1	arr[4] = arr[3]	[1, 2, 3, 4, 4]
+// 2	arr[3] = arr[2]	[1, 2, 3, 3, 4]
+// 3	arr[2] = arr[1]	[1, 2, 2, 3, 4]
+// 4	arr[1] = arr[0]	[1, 1, 2, 3, 4]
+// Ab dekho, har element ek position right shift ho gaya. First position par abhi bhi 1 hai.
+// Ab last step kya hai?
+// Humein chahiye:
+
+// [5, 1, 2, 3, 4]
+
+// Aur temp = 5 already save hai.
+
+// Isliye first index par saved value rakhni hogi.
+
+//to apn ab idr arr[0] m temp store krdege jis se first position pr 
+//last element aajyega kyuki apn n temp m last element store kr rkha tha
 ```
 
 *Generated on: 10/20/2026, 1:18:20 AM*
