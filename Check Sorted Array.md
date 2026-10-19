@@ -21,9 +21,33 @@ false
 - **Expected Time Complexity:** O(n)
 - **Expected Auxiliary Space Complexity:** O(1)
 
-### Accepted Solutions (3)
+### Accepted Solutions (2)
 
 #### Solution 1 (C++)
+
+- **Submitted:** 2026-10-19 23:47:18
+- **Status:** Correct
+- **Marks:** 0
+
+```cpp
+class Solution {
+  public:
+  //isme phele for loop chalyege or wo if condition ko check krega agr current elment
+  //previous s chota h to false return krta jyega or agar pure array m usko agar milta h
+  //ki current element previous element s bada h to false return nhi krega
+  //sidha hi loop s bhar aakr true return krdega 
+    bool isSorted(vector<int>& arr) {       // function array ko sorted check karega
+        for(int i = 1; i < arr.size(); i++) {  // second element se start, har element check karo
+            if(arr[i] < arr[i - 1]) {        // agar current element previous se chhota hai
+                return false;                // array sorted nahi hai
+            }
+        }
+        return true;                         // poora array check ho gaya, sorted hai
+    }
+};
+```
+
+#### Solution 2 (C++)
 
 - **Submitted:** 2026-10-15 16:01:09
 - **Status:** Correct
@@ -47,69 +71,4 @@ class Solution {
 };
 ```
 
-#### Solution 2 (C++)
-
-- **Submitted:** 2026-10-15 15:58:43
-- **Status:** Correct
-- **Marks:** 0
-
-```cpp
-// class Solution {
-//   public:
-//     bool isSorted(vector<int>& arr) { // function array ko sorted check karega
-
-//         // code here
-//         for(int i=1;i<arr.size();i++){
-//             if(arr[i]>arr[i-1]) //check krege agar  current element previous elemet s bada h to true return krege  warna false return krege
-//             {
-//                 return true;
-//             }
-            
-            
-//         }
-//         return false;
-//     }
-// };
-//method 2
-class Solution {
-  public:
-    bool isSorted(vector<int>& arr) {       // function array ko sorted check karega
-
-        for(int i = 1; i < arr.size(); i++) {  // second element se start, har element check karo
-
-            if(arr[i] < arr[i - 1]) {        // agar current element previous se chhota hai
-
-                return false;                // array sorted nahi hai
-            }
-        }
-
-        return true;                         // poora array check ho gaya, sorted hai
-    }
-};
-```
-
-#### Solution 3 (C++)
-
-- **Submitted:** 2026-09-11 20:09:50
-- **Status:** Correct
-- **Marks:** 2
-
-```cpp
-class Solution {
-  public:
-    bool isSorted(vector<int>& arr) {
-        // code here
-        for(int i=1;i<arr.size();i++){
-            if(arr[i]<arr[i-1])
-            {
-                return false;
-            }
-            
-            
-        }
-        return true;
-    }
-};
-```
-
-*Generated on: 10/19/2026, 11:46:05 PM*
+*Generated on: 10/19/2026, 11:47:05 PM*
