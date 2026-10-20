@@ -143,6 +143,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [2235-add-two-integers](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
