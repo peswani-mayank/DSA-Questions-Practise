@@ -54,6 +54,13 @@ class Solution {
   public:
     int countWords(vector<string> &list) {
         // code here.
+        //isme apn n phele map bnaya or fr loop chalya string wali list m
+        //or isme apn n sbhi strings ki frequencies ko count krke map m store 
+        //ki h fr count variable bnaya h fr apn frequecny wale map m chalege
+        //usme loop chalaya or check kiya ki jis bi string ki frequency 2 
+        //usko count increase krte jao or total return apn ko jin bi string ki frequecy 2
+        //h to is loop m wo check krega jin bi string ki frequecy 2 hoga utna count
+        //increase hota rhega or count return hojyega
         map<string,int>mp;
         for(auto it:list){
             mp[it]++;
