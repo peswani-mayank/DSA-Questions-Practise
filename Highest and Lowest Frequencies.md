@@ -55,6 +55,16 @@ class Solution {
   public:
     int findDiff(vector<int>& arr) {
         // code here
+    //isme apn n array ki sizze input li h
+    //fr frequency count k map bnaya h or loop chala kr map m frequecy store ki h
+    //fr 2 variable le liye h maxfreq or minfreq
+    //maxfreq ko 0 s initilaize kiya h agar aage frequecny kisi ki 0 s badi aaye to apn 
+    //usko maxfreq m store krde means agar kisi ki freuency maxfreq s jyada aaye to 
+    //apn maxfreq ko update krdege highest frequency s
+    //min frequency ko n s initialise kiya because maximum frequency n hi ho skti h
+    //baaki sb n s choti hi hogi taaki compare kre or agar apn ko kahi bi
+    //frequency n s choti milti h to apn usko minfreq m update krdenge
+    //fr last m maxfreq or min freq ka difference return krdiya h
         int n=arr.size();
         map<int,int>mp;
         for(int i=0;i<n;i++){
