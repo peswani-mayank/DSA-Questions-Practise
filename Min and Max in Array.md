@@ -20,11 +20,11 @@ The problem can be found at the following link: [Question Link](https://www.geek
 - **Expected Time Complexity:** O(n)
 - **Expected Auxiliary Space Complexity:** O(1)
 
-### Accepted Solutions (2)
+### Accepted Solutions (3)
 
 #### Solution 1 (C++)
 
-- **Submitted:** 2026-10-21 22:27:29
+- **Submitted:** 2026-10-22 22:06:37
 - **Status:** Correct
 - **Marks:** 0
 
@@ -51,6 +51,33 @@ class Solution {
 
 #### Solution 2 (C++)
 
+- **Submitted:** 2026-10-21 22:27:29
+- **Status:** Correct
+- **Marks:** 0
+
+```cpp
+class Solution {
+  public:
+    vector<int> getMinMax(vector<int> &arr) {
+        // code here
+        int n=arr.size();
+        int max=arr[0];
+        int min=arr[0];
+        for(int i=0;i<n;i++){
+            if(arr[i]<min){
+                min=arr[i];
+            }
+            if(arr[i]>max){
+                max=arr[i];
+            }
+        }
+        return {min,max};
+    }
+};
+```
+
+#### Solution 3 (C++)
+
 - **Submitted:** 2025-11-11 11:40:42
 - **Status:** Correct
 - **Marks:** 1
@@ -76,4 +103,4 @@ class Solution {
 };
 ```
 
-*Generated on: 10/21/2026, 10:27:30 PM*
+*Generated on: 10/22/2026, 10:06:18 PM*
