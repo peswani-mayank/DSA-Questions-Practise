@@ -21,11 +21,11 @@ The problem can be found at the following link: [Question Link](https://www.geek
 - **Expected Time Complexity:** O(n)
 - **Expected Auxiliary Space Complexity:** O(1)
 
-### Accepted Solutions (2)
+### Accepted Solutions (5)
 
 #### Solution 1 (C++)
 
-- **Submitted:** 2026-10-20 01:23:19
+- **Submitted:** 2026-10-26 20:09:07
 - **Status:** Correct
 - **Marks:** 0
 
@@ -48,6 +48,75 @@ class Solution {
 
 #### Solution 2 (C++)
 
+- **Submitted:** 2026-10-26 20:02:45
+- **Status:** Correct
+- **Marks:** 0
+
+```cpp
+class Solution {
+  public:
+    int largest(vector<int> &arr) {
+        // code here
+        int n=arr.size();
+        int max=arr[0];
+        for(int i=0;i<n;i++){
+            if(arr[i]>max){
+                max=arr[i];
+            }
+        }
+        return max;
+    }
+};
+```
+
+#### Solution 3 (C++)
+
+- **Submitted:** 2026-10-24 20:10:23
+- **Status:** Correct
+- **Marks:** 0
+
+```cpp
+class Solution {
+  public:
+    int largest(vector<int> &arr) {
+        // code here
+        int n=arr.size();
+        int max=arr[0];
+        for(int i=0;i<n;i++){
+            if(arr[i]>max){
+                max=arr[i];
+            }
+        }
+        return max;
+    }
+};
+```
+
+#### Solution 4 (C++)
+
+- **Submitted:** 2026-10-20 01:23:19
+- **Status:** Correct
+- **Marks:** 0
+
+```cpp
+class Solution {
+  public:
+    int largest(vector<int> &arr) {
+        // code here
+        int n=arr.size();
+        int max=arr[0];
+        for(int i=0;i<n;i++){
+            if(arr[i]>max){
+                max=arr[i];
+            }
+        }
+        return max;
+    }
+};
+```
+
+#### Solution 5 (C++)
+
 - **Submitted:** 2025-11-11 11:35:53
 - **Status:** Correct
 - **Marks:** 1
@@ -69,4 +138,4 @@ class Solution {
 };
 ```
 
-*Generated on: 10/20/2026, 1:22:47 AM*
+*Generated on: 10/26/2026, 8:14:51 PM*
