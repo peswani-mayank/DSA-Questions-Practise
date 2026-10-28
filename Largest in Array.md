@@ -25,7 +25,7 @@ The problem can be found at the following link: [Question Link](https://www.geek
 
 #### Solution 1 (C++)
 
-- **Submitted:** 2026-10-26 20:09:07
+- **Submitted:** 2026-10-28 18:37:32
 - **Status:** Correct
 - **Marks:** 0
 
@@ -48,7 +48,7 @@ class Solution {
 
 #### Solution 2 (C++)
 
-- **Submitted:** 2026-10-26 20:02:45
+- **Submitted:** 2026-10-26 20:09:07
 - **Status:** Correct
 - **Marks:** 0
 
@@ -71,7 +71,7 @@ class Solution {
 
 #### Solution 3 (C++)
 
-- **Submitted:** 2026-10-24 20:10:23
+- **Submitted:** 2026-10-26 20:02:45
 - **Status:** Correct
 - **Marks:** 0
 
@@ -94,7 +94,7 @@ class Solution {
 
 #### Solution 4 (C++)
 
-- **Submitted:** 2026-10-20 01:23:19
+- **Submitted:** 2026-10-24 20:10:23
 - **Status:** Correct
 - **Marks:** 0
 
@@ -117,9 +117,9 @@ class Solution {
 
 #### Solution 5 (C++)
 
-- **Submitted:** 2025-11-11 11:35:53
+- **Submitted:** 2026-10-20 01:23:19
 - **Status:** Correct
-- **Marks:** 1
+- **Marks:** 0
 
 ```cpp
 class Solution {
@@ -127,15 +127,15 @@ class Solution {
     int largest(vector<int> &arr) {
         // code here
         int n=arr.size();
-        int large=arr[0];
+        int max=arr[0];
         for(int i=0;i<n;i++){
-            if(arr[i]>large){
-                large=arr[i];
+            if(arr[i]>max){
+                max=arr[i];
             }
         }
-        return large;
+        return max;
     }
 };
 ```
 
-*Generated on: 10/26/2026, 8:14:51 PM*
+*Generated on: 10/28/2026, 6:37:16 PM*
