@@ -1,6 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        
         //isme phele nums jo vector diya h uskisize define ki
         //fr map bnaya jo ki sbhi elements ki frequency store krega
         //fr 2 variable declare ki h ek maximum frequency dekhne k liye or 
