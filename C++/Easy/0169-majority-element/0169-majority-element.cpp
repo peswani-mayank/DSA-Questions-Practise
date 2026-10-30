@@ -11,10 +11,8 @@ public:
         for(auto it:mp){
             if(it.second>maxfreq){
                 maxfreq=it.second;
-            ans=it.first;
-
-            }
-            
+                ans=it.first;
+            }  
         }
         return ans;
     }
