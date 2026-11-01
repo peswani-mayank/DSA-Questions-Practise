@@ -94,6 +94,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0001-two-sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
@@ -125,6 +126,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
