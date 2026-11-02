@@ -100,6 +100,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
