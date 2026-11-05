@@ -101,6 +101,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Hash Table
@@ -114,6 +115,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0009-palindrome-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [2235-add-two-integers](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 ## Recursion
