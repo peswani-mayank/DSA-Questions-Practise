@@ -103,6 +103,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -128,12 +130,14 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -186,4 +190,12 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
