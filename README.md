@@ -163,11 +163,13 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,4 +201,8 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
