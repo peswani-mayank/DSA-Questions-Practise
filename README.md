@@ -105,6 +105,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0344-reverse-string/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
