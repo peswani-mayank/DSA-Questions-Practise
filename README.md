@@ -104,6 +104,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/2057-smallest-index-with-equal-value/) | Easy |
