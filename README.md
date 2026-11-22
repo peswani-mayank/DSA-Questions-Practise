@@ -94,6 +94,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0001-two-sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
@@ -119,6 +120,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
