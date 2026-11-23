@@ -106,6 +106,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
@@ -117,6 +118,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0283-move-zeroes](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -183,6 +187,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0905-sort-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
