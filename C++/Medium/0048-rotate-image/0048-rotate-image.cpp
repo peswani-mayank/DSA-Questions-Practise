@@ -19,3 +19,5 @@ public:
         
     }
 };
+
+//time:o(n*n)
