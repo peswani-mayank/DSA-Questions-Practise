@@ -98,6 +98,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -173,6 +174,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0231-power-of-two/) | Easy |
@@ -223,6 +225,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
