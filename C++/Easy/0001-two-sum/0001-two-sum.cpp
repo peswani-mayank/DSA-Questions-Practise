@@ -6,16 +6,24 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n=nums.size();
-        map<int,int>mp;
+        unordered_map<int,int>mp;
         for(int i=0;i<n;i++){
-            int a=nums[i];
-            int more=target-a;
+            int current=nums[i];
+            int more=target-current;
             if(mp.find(more)!=mp.end()){
                 return {mp[more],i};
             }
-            mp[a]=i;
+            mp[current]=i;
 
         }
         return {};
     }
 };
+
+
+//In this approach, we use an unordered_map to store array elements along with their indices. We traverse the array and calculate the complement of the current element using target - current. Then, we check whether this complement already exists in the map using mp.find(more). If it exists, we have found the two elements whose sum equals the target, so we return their indices. Otherwise, we store the current element and its index in the map using mp[current] = i. If no valid pair is found after traversing the entire array, we return an empty vector.
+
+//time:o(n) in best
+//space:o(n)
+
+//if we are using map inplace of unordered map then time complexity would be o(nlogn)
