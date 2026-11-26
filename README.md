@@ -103,6 +103,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0048-rotate-image](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
@@ -130,6 +131,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0018-4sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -194,6 +196,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | ------- | ------- |
 | [0015-3sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -237,4 +240,12 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
