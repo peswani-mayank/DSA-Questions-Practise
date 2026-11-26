@@ -42,7 +42,18 @@ public:
     }
 };
 
-//Four Sum problem ko solve karne ke liye hum Sorting + Two Nested Loops + Two Pointer Approach use karte hain. Sabse pehle given array ko ascending order mein sort karte hain, jisse pointer movements ke through sum ko efficiently increase ya decrease kar sakein. Uske baad first loop se pehla element i fix karte hain aur second loop se doosra element j fix karte hain. Dono loops mein duplicate elements ko skip karte hain taaki repeated quadruplets generate na hon. Ab remaining two elements find karne ke liye k = j+1 aur l = n-1 initialize karte hain. While loop ke andar chaaron elements ka sum calculate karte hain. Agar sum target se chhota hai, toh k ko increment karte hain taaki sum increase ho; agar sum target se bada hai, toh l ko decrement karte hain taaki sum decrease ho. Agar sum target ke equal hota hai, toh hum us quadruplet ko answer vector mein store karte hain, dono pointers move karte hain aur duplicate values skip karte hain. Ye process tab tak continue hota hai jab tak k aur l pointers meet nahi kar jaate. Finally, hum saare unique quadruplets return kar dete hain.
+//Four Sum problem ko solve karne ke liye hum Sorting + Two Nested Loops + Two Pointer Approach use karte hain. 
+// Sabse pehle given array ko ascending order mein sort karte hain, jisse pointer movements ke through sum ko efficiently 
+// increase ya decrease kar sakein. Uske baad first loop se pehla element i fix karte hain aur second loop se doosra element 
+// j fix karte hain. Dono loops mein duplicate elements ko skip karte hain taaki repeated quadruplets generate na hon. 
+//     Ab remaining two elements find karne ke liye k = j+1 aur l = n-1 initialize karte hain. While loop ke andar 
+// chaaron elements ka sum calculate karte hain. Agar sum target se chhota hai, toh k ko increment karte hain taaki 
+// sum increase ho; agar sum target se bada hai, toh l ko decrement karte hain taaki sum decrease ho. Agar sum target
+// ke equal hota hai, toh hum us quadruplet ko answer vector mein store karte hain, dono pointers move karte hain aur
+// duplicate values skip karte hain. Ye process tab tak continue hota hai jab tak k aur l pointers meet nahi kar jaate. 
+//     Finally, hum saare unique quadruplets return kar dete hain.
+
+//sum ko long long isliye use kiya hint use krne pr overflow hojyega or 1LL* ye long long literal h or int ka 1 literal hota h
 
 //time:o(n*n*n);
 //Auxiliary Space Complexity: O(log n) typically, due to sorting.
