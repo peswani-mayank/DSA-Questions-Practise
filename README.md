@@ -101,6 +101,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0075-sort-colors/) | Medium |
@@ -205,6 +206,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ This is a personal practice repository, but suggestions, corrections, or more op
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/peswani-mayank/DSA-Questions-Practise/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 ## Pigeonhole Principle
